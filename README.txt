@@ -19,7 +19,7 @@
 
 
 4) Notebooks: Contains the four Google Colab notebooks used to download, process, and analyze data.
----> bias_correction: Performs a bias correction of the Landsat thermal band using buoys throughout the Narragansett        Bay. These bias corrections are applied to the Landsat data.
+---> bias_correction: Performs a bias correction of the Landsat thermal band using buoys throughout the Narragansett Bay. These bias corrections are applied to the Landsat data.
 ---> landsat_scenes: Downloads .csv Landsat thermal scenes of the Narragansett Bay.
 ---> non_infiiled: Calculates statistics for the non-infilled Landsat scenes that are reported in the README.txt file in the Non-Infilled folder.
 ---> infilling_dineof: Performs the DINEOF algorithm on the Landsat scenes to remove clouds.

@@ -3,5 +3,7 @@ bin/
 lib/
 etc/
 share/
+results/
 pyvenv.cfg
 *.ipynb_checkpoints
+.python-version
