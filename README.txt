@@ -1,6 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/ARCHIVED-red)
+
 <br>
-**Archived February 2026 due to issues with Bay projection in this project**
+## **Archived February 2026 due to issues with Bay projection in this project**
 
 Contained within this download are four folders.
 
@@ -31,3 +32,4 @@ Contained within this download are four folders.
 
 
 Email daniel_wexler@brown.edu, daniel_wexler@alumni.brown.edu or danwexler32@gmail.com or baylor@brown.edu with questions.
+
